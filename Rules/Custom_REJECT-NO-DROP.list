@@ -1,1 +1,1 @@
-AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com)),REJECT-NO-DROP
+AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))

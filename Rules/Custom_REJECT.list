@@ -1,3 +1,3 @@
-DOMAIN,app-site-association.cdn-apple.com,REJECT
-DOMAIN-KEYWORD,96110,REJECT
-DOMAIN-SUFFIX,gjfzpt.cn,REJECT
+DOMAIN,app-site-association.cdn-apple.com
+DOMAIN-KEYWORD,96110
+DOMAIN-SUFFIX,gjfzpt.cn

@@ -1,9 +1,8 @@
-IP-CIDR,65.49.208.24/32,DIRECT,no-resolve
-DOMAIN-SUFFIX,smtp.gmail.com,DIRECT
-DOMAIN-SUFFIX,smtp.googlemail.com,DIRECT
-DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com,DIRECT
-DOMAIN-SUFFIX,www.interactivebrokers.com,DIRECT
-DOMAIN-SUFFIX,ibllc.com.cn,DIRECT
-DOMAIN-SUFFIX,www.ibkr.com.cn,DIRECT
-DOMAIN-SUFFIX,api.ibkr.com,DIRECT
-DOMAIN,prpr.96110.cn.com,DIRECT
+DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN-SUFFIX,smtp.googlemail.com
+DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com
+DOMAIN-SUFFIX,www.interactivebrokers.com
+DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-SUFFIX,www.ibkr.com.cn
+DOMAIN-SUFFIX,api.ibkr.com
+DOMAIN,prpr.96110.cn.com
